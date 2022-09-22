@@ -1,0 +1,21 @@
+{
+  "name": "fordev",
+  "version": "1.0.0",
+  "description": "Reseau social pour développeurs et programmeurs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reseau",
+    "social",
+    "fordev",
+    "network",
+    "developpeurs",
+    "software",
+    "logiciel",
+    "developer"
+  ],
+  "author": "breezy-dev",
+  "license": "ISC"
+}
